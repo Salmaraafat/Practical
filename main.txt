@@ -1,0 +1,9 @@
+int main(){
+string name;
+cout<<"Lol"
+cout<<"enter your name";
+
+cin>>name;
+
+cout<<"HI"<<name;
+}
