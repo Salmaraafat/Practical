@@ -1,6 +1,6 @@
 int main(){
 string name;
-cout<< "Salma";
+cout<< "Salma mohamed";
 cout<<"Lol"
 cout<<"enter your name";
 
